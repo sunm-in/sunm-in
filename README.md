@@ -7,8 +7,6 @@
 <a href="https://github.com/sunm-in"><img src="https://img.shields.io/badge/-Github-%23181717.svg?&logo=GitHub&logoColor=white" /></a>
   &nbsp;&nbsp;&nbsp;
 <a href="https://velog.io/@sunm309"><img src="https://img.shields.io/badge/-Blog-brightgreen.svg?&logo=Bloglovin&logoColor=white" /></a>
-
-
   
 <img src="https://img.shields.io/badge/-HTML-%23E34F26.svg?&logo=HTML5&logoColor=white" />
 &nbsp;&nbsp;
