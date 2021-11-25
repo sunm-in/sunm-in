@@ -14,8 +14,8 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E.svg?&logo=JavaScript&logoColor=white" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-TypeScript-%233178C6.svg?&logo=TypeScript&logoColor=white" />
-&nbsp;&nbsp;
+<!-- <img src="https://img.shields.io/badge/-TypeScript-%233178C6.svg?&logo=TypeScript&logoColor=white" />
+&nbsp;&nbsp; -->
 <img src="https://img.shields.io/badge/-React-%2361DAFB.svg?&logo=React&logoColor=white" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Redux-%23764ABC.svg?&logo=Redux&logoColor=white" />
