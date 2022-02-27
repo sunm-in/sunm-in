@@ -13,7 +13,7 @@
 
 <h2>🔍 Info</h2>
 <p>
-  <a href="https://velog.io/@sunm309"><img src="https://img.shields.io/badge/Blog-00A98F.svg?&style=for-the-badge&logo=Blogger&logoColor=white" /></a>
+  <a href="https://velog.io/@sunm309"><img src="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white" /></a>
 <!--   <img src="https://img.shields.io/badge/sunm309@naver.com-0ABF53.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /> -->
 </p>
 
